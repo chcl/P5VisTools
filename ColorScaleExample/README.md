@@ -29,4 +29,4 @@ Get color giving a float between 0.0 and 1.0:
       rect(x, 0, w, height);
     }
 
-![ColorScaleExample](ColorScaleExample/ColorScaleExample.png)
+![ColorScaleExample](ColorScaleExample.png)
